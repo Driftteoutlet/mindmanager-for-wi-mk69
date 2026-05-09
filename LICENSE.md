@@ -1,4 +1,4 @@
-
+advanced MindManager for Windows Plugin | offline-access + cloud-sync offers the most advanced MindManager for Windows plugin, with offline-access and cloud-sync. Ideal for
 
 
 
